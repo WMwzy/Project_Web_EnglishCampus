@@ -1,0 +1,17 @@
+.red{
+	color: black;
+}
+.body-title{
+	line-height: 30px;
+	margin-left: 20px;
+	font-family: "arial black";
+}
+p{
+	margin: 20px 20px;
+}
+.en{
+	font-family: "arial black";
+}
+small{
+	color: gray;
+}

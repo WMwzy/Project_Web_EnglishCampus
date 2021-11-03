@@ -1,0 +1,16 @@
+.red{
+	color: black;
+}
+h1,h2{
+	font-family: "黑体";
+	font-weight: bold;
+	margin: 20px;
+}
+p{
+	margin: 20px;
+}
+h3{
+	color: gray;
+	font-family: "arial black";
+	margin: 0 20px;
+}

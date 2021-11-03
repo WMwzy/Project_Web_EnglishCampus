@@ -1,0 +1,27 @@
+.red{
+	color: black;
+}
+.title{
+	margin-left: 20px;
+	font-family: "黑体";
+}
+.head-body{
+	margin: 0 20px;
+}
+small{
+	color: gray;
+}
+.picture{
+	margin: 0 20px 0 0;
+	width: 150px;
+	height: auto;
+}
+.proverb-body{
+	margin: 20px;
+}
+h2{
+	font-family: "arial black";
+}
+blockquote{
+	color: green;
+}
